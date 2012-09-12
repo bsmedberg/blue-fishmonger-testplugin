@@ -1,0 +1,7 @@
+LIBRARY npbsmedberg-testplugin
+
+EXPORTS
+  NP_GetEntryPoints
+  NP_Initialize
+  NP_Shutdown
+  NP_GetMIMEDescription
